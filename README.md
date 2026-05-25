@@ -94,3 +94,23 @@ Dashboard PDF
 Executive Summary PDF
 
 Full Excel Workbook
+
+
+**About Me**
+I am a Data Analyst skilled in:
+•	Power BI
+•	Excel
+•	SQL
+•	Python
+•	Data Visualization
+•	Business Intelligence
+I enjoy transforming raw data into actionable business insights that support strategic decision-making.
+
+Connect With Me
+•	LinkedIn: [www.linkedin.com/in/chika-ekwebelem-14b1a124a]
+•	GitHub: [https://github.com/apex-data-analytics]
+•	Portfolio: []
+
+## Dashboard Preview
+
+![Dashboard](Global_sales_mechandize_Dashboard_portfolio.pdf)
