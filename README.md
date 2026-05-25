@@ -113,4 +113,4 @@ Connect With Me
 
 ## Dashboard Preview
 
-![Dashboard](Global-sales-dashboard)
+![Dashboard](Global-sales-dashboard.jpg)
