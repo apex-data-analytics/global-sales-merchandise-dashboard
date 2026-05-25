@@ -113,4 +113,4 @@ Connect With Me
 
 ## Dashboard Preview
 
-![Dashboard](Global_sales_mechandize_Dashboard_portfolio.pdf)
+![Dashboard](Global_sales_mechandize_Dashboard_Portfolio.pdf)
